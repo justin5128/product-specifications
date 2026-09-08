@@ -51,7 +51,7 @@ Observe data age, completion and recovery before choosing targets.
 
 ### Open decision
 
-Agree ownership, failure communication and release evidence before treating this document as an implementation contract.
+Which boundary owns freshness, and what information must remain visible when only part of a requested view updates?
 
 ---
 
@@ -91,7 +91,7 @@ Observe unresolved cases and reconciliation completion; no live metrics are asse
 
 ### Open decision
 
-Agree ownership, failure communication and release evidence before treating this document as an implementation contract.
+Who owns reconciliation when the external outcome is unknown, and what evidence is required to close the case?
 
 ---
 
@@ -131,7 +131,7 @@ Observe task comprehension and navigation errors before setting targets.
 
 ### Open decision
 
-Agree ownership, failure communication and release evidence before treating this document as an implementation contract.
+Which context must persist across navigation, and how will expanded views return focus?
 
 ---
 
@@ -171,7 +171,7 @@ Observe hidden-state confusion and task completion; no user-study results are cl
 
 ### Open decision
 
-Agree ownership, failure communication and release evidence before treating this document as an implementation contract.
+Which information is essential during narrow-screen review, and what may be disclosed progressively?
 
 ---
 
@@ -211,7 +211,7 @@ Observe unprocessed work and recovery age before setting service objectives.
 
 ### Open decision
 
-Agree ownership, failure communication and release evidence before treating this document as an implementation contract.
+How will incomplete work be identified and assigned an owner when delivery or processing is interrupted?
 
 ---
 
@@ -251,7 +251,7 @@ Observe missing or inconsistent records; no trading-performance claims.
 
 ### Open decision
 
-Agree ownership, failure communication and release evidence before treating this document as an implementation contract.
+Which workflow observations are sufficient to explain current state without exposing private records?
 
 ---
 
@@ -291,7 +291,7 @@ Assess reproducibility and completeness; no returns or accuracy targets.
 
 ### Open decision
 
-Agree ownership, failure communication and release evidence before treating this document as an implementation contract.
+What dataset identity and completeness evidence must a reviewer see before treating an opaque run as complete?
 
 ---
 
@@ -331,7 +331,7 @@ Observe review completion and provenance gaps; no model-quality benchmark is cla
 
 ### Open decision
 
-Agree ownership, failure communication and release evidence before treating this document as an implementation contract.
+What distinguishes generated material from a reviewed finding, and how will revisions affect that distinction?
 
 ---
 
@@ -371,7 +371,7 @@ Measure demand and pending age before defining targets.
 
 ### Open decision
 
-Agree ownership, failure communication and release evidence before treating this document as an implementation contract.
+How should interactive and background demand share capacity, and which observations will reveal unfairness?
 
 ---
 
@@ -411,9 +411,11 @@ Track reconciliation differences and recovery evidence; do not assert migration 
 
 ### Open decision
 
-Agree ownership, failure communication and release evidence before treating this document as an implementation contract.
+Which single responsibility should move first, and what comparison and recovery evidence will permit cutover?
 
 ## Supporting development projects
+
+[Read the expanded AI and automation casebook](automation-lab.md) for dedicated project briefs, trade-offs and acceptance scenarios.
 
 ### Content automation
 
